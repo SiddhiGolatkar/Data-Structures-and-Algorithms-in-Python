@@ -5,3 +5,5 @@ In Computer science, a data structure is a data organization, management and sto
 ### 1. Time Complexity
 
 ### 2. Array Data Structure
+
+### 3. Recursion - Factorial 
